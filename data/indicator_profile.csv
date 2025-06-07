@@ -1,0 +1,11 @@
+Series Code,Series Name,total_records,missing_count,mean_value,min_value,max_value,missing_pct
+CM.MKT.LCAP.GD.ZS,Market capitalization of listed domestic companies (% of GDP),6384,4046,66.92126933972224,0.009202243259652,1777.22631607139,63.377192982456144
+DT.DOD.DECT.CD,"External debt stocks, total (DOD, current US$)",6384,3278,190431221004.63177,69583145.7,8836011577015.8,51.347117794486216
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",6384,2212,58548921799.997375,267707.367815772,3900039302991.09,34.64912280701755
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",6384,907,6.143979197387795,-16.8596910540644,557.201817362051,14.207393483709275
+FR.INR.LEND,Lending interest rate (%),6384,3388,12.97119709627693,0.0,170.293833333333,53.07017543859649
+GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",6384,4822,59.7202167249241,1.84568513687825,249.366027184106,75.53258145363408
+NY.GDP.MKTP.CD,GDP (current US$),6384,210,2135672181839.4963,13964732.327114,106171667873321.0,3.289473684210526
+NY.GDP.PCAP.CD,GDP per capita (current US$),6384,205,14639.049152357331,109.593813612988,256580.515122745,3.2111528822055138
+Short definition,Indicator Name,24,24,,,,100.0
+"Total external debt is debt owed to nonresidents repayable in currency, goods, or services. It is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, short-term debt, and use of IMF credit. Data are in current U.S. dollars.","External debt stocks, total (DOD, current US$)",24,24,,,,100.0
